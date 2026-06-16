@@ -18,7 +18,7 @@
 
 ## Stuff I am working on right now
 [![Fur DB](https://img.shields.io/badge/Fur%20DB-495C83?style=for-the-badge)](https://github.com/meowdhavan/furdb)
-[![Moon](https://img.shields.io/badge/Moon-714955?style=for-the-badge)](https://github.com/meowdhavan/moon)
+[![Moon](https://img.shields.io/badge/Moon-C65102?style=for-the-badge)](https://github.com/meowdhavan/moon)
 [![Py2Quantikz](https://img.shields.io/badge/py2quantikz-b03608?style=for-the-badge)](https://github.com/meowdhavan/py2quantikz)
 [![Assignmeownt](https://img.shields.io/badge/Assignmeownt-46A249?style=for-the-badge)](https://github.com/meowdhavan/assignmeownt/)
 
