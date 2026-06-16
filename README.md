@@ -8,7 +8,7 @@
 
 [![Personal Website](https://img.shields.io/badge/Website-282828?style=for-the-badge&logoColor=white)](https://www.madhavanraja.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-raja/)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-384D54?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/madhavanraja)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-00153C?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/madhavanraja)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/majestic_flop)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/madhavan_raja)
 
